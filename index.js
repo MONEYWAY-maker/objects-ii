@@ -328,6 +328,23 @@ if (gradeToNames[grade]) {
   gradeToNames[grade].push(name);
   consle.log (gradeToNames);
 
+so on my first try i didnt use my notes 
+and didn't include for let or if 
+so copilot corrected me 
+
+my original structure 
+Did I do this correctly
+
+// Here’s a dictionary of students and grades:
+
+let nameToGrades = { “Anna”: 100, “Simon”: 85, “Dan”: 88, “Carl”: 92, “Sara”: 92, “Sarah”: 88, “Harmony”: 99, “George”: 100, “Joel”: 100 }
+
+// Make a dictionary called “gradeToNames” that has grades as keys and arrays as values, where the array has the names of every student who has that grade. For example, gradeToNames[92] = [“Carl”, “Sara”]. Hint: Use loops!
+
+let “gradeToNames” = let key = “88-100” let names =   “Anna”: 100, “Simon”: 85, “Dan”: 88, “Carl”: 92, “Sara”: 92, “Sarah”: 88, “Harmony”: 99, “George”: 100, “Joel”: 100
+
+let gradeArray = “88-100” let namesArray =   “Anna” “Simon” “Dan” “Carl” “Sara” “Sarah” “Harmony” “George” “Joel”
+
 
 
   
